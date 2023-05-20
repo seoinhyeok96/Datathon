@@ -5,6 +5,9 @@
 - Status: Complete
 - Period: 23.05.10 ~ 23.05.19
 
+![스크린샷 2023-05-20 오후 11 36 20](https://github.com/seoinhyeok96/Datathon/assets/125840482/22a7c2b9-89ea-48f5-9571-fe54d9865a19)
+
+
 ## 1. 타겟 및 상황 설정
 <p align="left"><img src="https://github.com/haLinnn/LIKELION_AI_SCHOOL_DATATHON/assets/108817458/3961fb0b-c174-45a9-b922-c0089cec976c" weight=600 height=300/></p>
 
