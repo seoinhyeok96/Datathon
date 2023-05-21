@@ -118,7 +118,7 @@ Quito 지역 매장은 주로 **고소득층 고객**이 많다.
 <p align="center"><img src="https://github.com/haLinnn/LIKELION_AI_SCHOOL_DATATHON/assets/108817458/9ffb1f5d-b953-400a-929e-d853abae5481" weight=800 height=400/></p>
 
 
-3) **키토 지역의 품목별 판매량(sales) 비교 (모든 월 vs. 크리스마스 기간)**
+3) **키토 지역의 품목별 판매량(sales) 비교** (모든 월 vs. 크리스마스 기간)
 
 - 모든 월과 크리스마스 기간 모두 판매량(sales)이 높은 품목은 대부분 **식품**(GROCERY 1, PRODUCE, BEVERAGES, DAIRY, MEATS, BREAD/BAKERY, DELI)
 - 특히 모든 월 대비 크리스마스 기간에 잘 팔리는 품목은 **FROZEN FOODS(냉동식품)**
