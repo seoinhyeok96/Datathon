@@ -106,13 +106,13 @@ Quito 지역 매장은 주로 **고소득층 고객**이 많다.
 
 **Q. 크리스마스에 주로 잘 팔리는 제품은 무엇이었나요?**
 
-1) **키토 지역 내 스토어에서 FROZEN FOODS의 판매량(sales) 현황**
+1) 키토 지역 내 스토어에서 FROZEN FOODS의 판매량(sales) 현황
 :  **FROZEN FOODS(냉동 식품)**은 연말마다 판매량(sales)이 폭발적으로 증가
 
 <p align="center"><img src="https://github.com/haLinnn/LIKELION_AI_SCHOOL_DATATHON/assets/108817458/10739774-14e5-4de9-8c3e-ac0b40562961" weight=800 height=400/></p>
 
 
-2) **키토 지역 내 스토어에서 LIQUOR, WINE, BEER의 판매량(sales) 현황**
+2) 키토 지역 내 스토어에서 LIQUOR, WINE, BEER의 판매량(sales) 현황
 :  **LIQUOR, WINE, BEER(주류)**도 연말마다 판매량(sales)이 증가
 
 <p align="center"><img src="https://github.com/haLinnn/LIKELION_AI_SCHOOL_DATATHON/assets/108817458/9ffb1f5d-b953-400a-929e-d853abae5481" weight=800 height=400/></p>
