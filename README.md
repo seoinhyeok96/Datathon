@@ -77,7 +77,7 @@ Quito 지역 매장은 주로 **고소득층 고객**이 많다.
 
 1) **크리스마스 전후 7일간 판매량(sales) 변화**
 
-<p align="center"><img src="https://github.com/haLinnn/LIKELION_AI_SCHOOL_DATATHON/assets/108817458/c50c2ffb-3b54-4f9e-b216-f564518f52874" weight=450 height=450/></p>
+<p align="center"><img src="https://github.com/haLinnn/Datathon/assets/108817458/47dd13dc-a3cc-4fe1-9eba-eec27894c3ea" weight=450 height=450/></p>
 
 ⇒ **12월 18~20일**부터 크리스마스 준비로 인해 판매량(sales)이 눈에 띄게 증가함
 
